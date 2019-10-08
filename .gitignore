@@ -111,3 +111,6 @@ venv.bak/
 *.launch
 .settings/
 *.sublime-workspace
+
+# Project ignores
+output/
