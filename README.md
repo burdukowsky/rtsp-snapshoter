@@ -14,3 +14,8 @@ $ pip3 install -r requirements.txt
 ```shell script
 $ python3 main.py
 ```
+
+## Деактивация виртуального окружения (venv)
+```shell script
+$ deactivate
+```
